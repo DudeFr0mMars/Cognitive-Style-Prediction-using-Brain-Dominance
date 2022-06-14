@@ -2,7 +2,7 @@
 
 The Decision Tree looks like : 
 
-![alt text](https://github.com/DudeFr0mMars/Cognitive-Style-Prediction-using-Brain-Dominance/assets/mydecisiontree.png)
+![Screenshot](https://github.com/DudeFr0mMars/Cognitive-Style-Prediction-using-Brain-Dominance/assets/mydecisiontree.png)
 
 The confusion matrix was as follows :
 
